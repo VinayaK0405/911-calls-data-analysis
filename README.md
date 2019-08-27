@@ -1,2 +1,2 @@
-# 911-calls-data-analysis
-This is a simple project on the analysis of a dataset of 911-calls, taken from kaggle
+# Projects/Mini-projects
+This is a repository containing notebooks of the different projects/mini-projects that i have worked on 
